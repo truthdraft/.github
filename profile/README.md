@@ -129,4 +129,3 @@ We actively document natural language processing behavior to defend original wri
   <sub>© 2026 TruthDraft Organization. Dedicated to genuine authorship, educational clarity, and writing integrity.</sub>
 </p>
 
-```
